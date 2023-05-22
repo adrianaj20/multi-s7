@@ -1,0 +1,15 @@
+C:\Users\najar\source\repos\XLab7\XLab7\XLab7\bin\Debug\netstandard2.0\XLab7.deps.json
+C:\Users\najar\source\repos\XLab7\XLab7\XLab7\bin\Debug\netstandard2.0\XLab7.dll
+C:\Users\najar\source\repos\XLab7\XLab7\XLab7\bin\Debug\netstandard2.0\ref\XLab7.dll
+C:\Users\najar\source\repos\XLab7\XLab7\XLab7\bin\Debug\netstandard2.0\XLab7.pdb
+C:\Users\najar\source\repos\XLab7\XLab7\XLab7\obj\Debug\netstandard2.0\XLab7.csproj.AssemblyReference.cache
+C:\Users\najar\source\repos\XLab7\XLab7\XLab7\obj\Debug\netstandard2.0\XLab7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\najar\source\repos\XLab7\XLab7\XLab7\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\najar\source\repos\XLab7\XLab7\XLab7\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\najar\source\repos\XLab7\XLab7\XLab7\obj\Debug\netstandard2.0\XLab7.AssemblyInfoInputs.cache
+C:\Users\najar\source\repos\XLab7\XLab7\XLab7\obj\Debug\netstandard2.0\XLab7.AssemblyInfo.cs
+C:\Users\najar\source\repos\XLab7\XLab7\XLab7\obj\Debug\netstandard2.0\XLab7.csproj.CoreCompileInputs.cache
+C:\Users\najar\source\repos\XLab7\XLab7\XLab7\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\najar\source\repos\XLab7\XLab7\XLab7\obj\Debug\netstandard2.0\XLab7.dll
+C:\Users\najar\source\repos\XLab7\XLab7\XLab7\obj\Debug\netstandard2.0\refint\XLab7.dll
+C:\Users\najar\source\repos\XLab7\XLab7\XLab7\obj\Debug\netstandard2.0\XLab7.pdb
